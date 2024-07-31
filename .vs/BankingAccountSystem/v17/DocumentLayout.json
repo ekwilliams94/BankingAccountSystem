@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E328DA8D-FA8A-4C47-A56D-D93BAE434F25}|Tests\\BankingAccountSystem.Tests.csproj|c:\\users\\ellis\\source\\repos\\bankingaccountsystem\\tests\\services\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E328DA8D-FA8A-4C47-A56D-D93BAE434F25}|Tests\\BankingAccountSystem.Tests.csproj|solutionrelative:tests\\services\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E328DA8D-FA8A-4C47-A56D-D93BAE434F25}|Tests\\BankingAccountSystem.Tests.csproj|c:\\users\\ellis\\source\\repos\\bankingaccountsystem\\tests\\repository\\accountrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E328DA8D-FA8A-4C47-A56D-D93BAE434F25}|Tests\\BankingAccountSystem.Tests.csproj|solutionrelative:tests\\repository\\accountrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|c:\\users\\ellis\\source\\repos\\bankingaccountsystem\\app\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|solutionrelative:app\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|c:\\users\\ellis\\source\\repos\\bankingaccountsystem\\app\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|solutionrelative:app\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|c:\\users\\ellis\\source\\repos\\bankingaccountsystem\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|c:\\users\\ellis\\source\\repos\\bankingaccountsystem\\app\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47E196B-B6F0-4C33-9204-7BEAAAE4DBFA}|App\\BankingAccountSystem.csproj|solutionrelative:app\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E328DA8D-FA8A-4C47-A56D-D93BAE434F25}|Tests\\BankingAccountSystem.Tests.csproj|c:\\users\\ellis\\source\\repos\\bankingaccountsystem\\tests\\bankingaccountsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E328DA8D-FA8A-4C47-A56D-D93BAE434F25}|Tests\\BankingAccountSystem.Tests.csproj|solutionrelative:tests\\bankingaccountsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Repository\\AccountRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Services\\AccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\BankingAccountSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:27:35.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\Tests\\Repository\\AccountRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repository\\AccountRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\Tests\\Repository\\AccountRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\Repository\\AccountRepositoryTests.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:24:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "App\\Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "App\\Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:20:11.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "App\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Services\\AccountService.cs",
+              "RelativeToolTip": "App\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:14:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\App\\Models\\Account.cs",
+              "RelativeToolTip": "App\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:18:53.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\Tests\\Services\\AccountServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\AccountServiceTests.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\Tests\\Services\\AccountServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\AccountServiceTests.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAUwN0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:12:21.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankingAccountSystem.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\Tests\\BankingAccountSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\BankingAccountSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Ellis\\source\\repos\\BankingAccountSystem\\Tests\\BankingAccountSystem.Tests.csproj",
+              "RelativeToolTip": "Tests\\BankingAccountSystem.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T09:16:54.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Repository\\AccountRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:20:14.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Services\\AccountService.cs",
+              "RelativeToolTip": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Services\\AccountService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:06:14.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Models\\Account.cs",
+              "RelativeToolTip": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Models\\Account.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:00:36.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankingAccountSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\BankingAccountSystem.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\BankingAccountSystem.csproj",
+              "ToolTip": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\BankingAccountSystem.csproj",
+              "RelativeToolTip": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\BankingAccountSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T16:59:37.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Ellis\\source\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Program.cs",
+              "RelativeToolTip": "..\\..\\Barbour Logic Interview Stage 2\\Barbour Logic Interview Stage 2\\Tasks\\BankingAccountSystem\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:39:36.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

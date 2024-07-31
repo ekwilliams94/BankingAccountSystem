@@ -1,0 +1,28 @@
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\bin\Debug\net8.0\BankingAccountSystem.exe
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\bin\Debug\net8.0\BankingAccountSystem.deps.json
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\bin\Debug\net8.0\BankingAccountSystem.runtimeconfig.json
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\bin\Debug\net8.0\BankingAccountSystem.dll
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\bin\Debug\net8.0\BankingAccountSystem.pdb
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\BankingAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\BankingAccountSystem.AssemblyInfoInputs.cache
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\BankingAccountSystem.AssemblyInfo.cs
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\BankingAccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\BankingAccountSystem.dll
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\refint\BankingAccountSystem.dll
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\BankingAccountSystem.pdb
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\BankingAccountSystem.genruntimeconfig.cache
+C:\Users\Ellis\source\Barbour Logic Interview Stage 2\Barbour Logic Interview Stage 2\Tasks\BankingAccountSystem\obj\Debug\net8.0\ref\BankingAccountSystem.dll
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\bin\Debug\net8.0\BankingAccountSystem.exe
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\bin\Debug\net8.0\BankingAccountSystem.deps.json
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\bin\Debug\net8.0\BankingAccountSystem.runtimeconfig.json
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\bin\Debug\net8.0\BankingAccountSystem.dll
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\bin\Debug\net8.0\BankingAccountSystem.pdb
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\BankingAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\BankingAccountSystem.AssemblyInfoInputs.cache
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\BankingAccountSystem.AssemblyInfo.cs
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\BankingAccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\BankingAccountSystem.dll
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\refint\BankingAccountSystem.dll
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\BankingAccountSystem.pdb
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\BankingAccountSystem.genruntimeconfig.cache
+C:\Users\Ellis\source\repos\BankingAccountSystem\App\obj\Debug\net8.0\ref\BankingAccountSystem.dll
